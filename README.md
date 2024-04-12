@@ -1,5 +1,4 @@
 
-```markdown
 # Sales Data Analysis
 
 This repository contains code for analyzing sales data and answering various questions related to sales performance. The analysis includes data cleaning, exploratory data analysis (EDA), and answering specific questions about sales trends and patterns.
@@ -49,4 +48,3 @@ Future work may include:
 
 
 
-Feel free to contribute to this project by opening issues, suggesting improvements, or submitting
